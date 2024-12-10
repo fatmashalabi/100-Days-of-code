@@ -21,7 +21,7 @@ else: #L:= large pizza
         bill +=3
     if extra_cheese == "Y":
         bill += 1
-print("Your final bill is: $" + str(bill) +".")
+print("Your final bill is: $" + str(bill) + ".")
 
 
 

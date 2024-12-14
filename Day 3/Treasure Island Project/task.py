@@ -43,6 +43,6 @@ elif(left_or_right == "left"): #in := gives true for all the substrings in "left
             print("Game Over.")
 
 
-str.
+
 
 
